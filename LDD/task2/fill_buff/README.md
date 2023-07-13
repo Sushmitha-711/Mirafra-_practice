@@ -1,0 +1,1 @@
+WAP to initialize 1k stars (1024 * s)into the driver and come back to 10th position and write "sre embedded" and go to the 100th position and write the string "Technologies" the read the complete stringand display from app.
